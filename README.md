@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mb
 - 👀 I am interested in learning to represent social dynamics in urban areas through programming languages.
 - 🌱 I’m currently learning agent based modelling with Netlogo
-- 💞️ I’m looking to collaborate on urban studies.
+- 💞️ I’m looking to collaborate on studies of urban dynamics
 - 📫 How to reach me send me an mail in mb6.marcelo@gmail.com
 
 <!---
