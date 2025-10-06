@@ -25,21 +25,6 @@ A pesar del discurso oficial sobre “ciudades verdes”, las políticas de desa
 
 Frente a esto, Carla Filipe introduce la idea de una **planificación ecológica integral**, que no se limite a mitigar daños, sino que proponga una nueva relación entre sociedad y naturaleza.
 
----
-
-## 🧩 Contenido del proyecto
-
-### 📂 Estructura de archivos
-
-| Archivo / Carpeta | Descripción |
-|--------------------|-------------|
-| `docs/nota_divulgacion.md` | Nota científica de divulgación en formato Markdown |
-| `docs/referencias.md` | Referencia bibliográfica y enlaces de interés |
-| `README.md` | Documento principal del repositorio |
-| `assets/` | (opcional) Imágenes, esquemas o mapas conceptuales sobre la EEU |
-
----
-
 ## 🧭 Síntesis del artículo
 
 El texto plantea que la sostenibilidad urbana debe entenderse como **una práctica política y ecológica**, no como un eslogan de mercado.  
